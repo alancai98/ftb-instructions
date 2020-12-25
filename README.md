@@ -20,4 +20,5 @@
 - Entity Shadows = off
 - Brightness = max (doesn't reduce lag, but is a good setting)
 - If it's still laggy after this, first try turning down render distance. If that isn't good enough turn off the minimap (Press "J" -> options -> minimap preset 1 -> uncheck enable minimap.) I'd only do this if absolutely necessary; the minimap is pretty useful to have. 
-- Also, chrome uses a lot of memory so if you just have 8gb I'd get and use opera while playing instead of chrome. Worth doing imo as there's a good chance you'll want to pull up the wiki at some point. This doesn't really matter if you have 16gb. 13) Add server 204.44.126.230 and connect! If you want to join my quest party (i.e. share quests as a group instead of individually) ask me to invite you.
+- Also, chrome uses a lot of memory so if you just have 8gb I'd get and use opera while playing instead of chrome. Worth doing imo as there's a good chance you'll want to pull up the wiki at some point. This doesn't really matter if you have 16gb. 
+13) Add server and connect! If you want to join my quest party (i.e. share quests as a group instead of individually) ask me to invite you.
